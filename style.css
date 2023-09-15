@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+    background: linear-gradient(#FFC0A8  0%, #FEBAAD 100%);
+}
+
+.profile {
+    border-radius: 50%;
+
+}
+
+#welcome {
+    position: absolute;
+    bottom: 0;
+    background: linear-gradient(#8FCACA 0%, #d4f0f0 100%);
+    display:table;
+    width: 100%;
+    height: 100%;
+}
+
+h1 {
+
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+
+}
+
+#name {
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif, cursive;
+
+}
+
+
+#about {
+    font-family: 'Cinzel Decorative', cursive;
+    padding: 50px;
+}
+
+#more {
+    font-family: 'Cinzel Decorative', cursive;
+    padding: 50px;
+}
+
+
+#Applications {
+    font-family: 'Cinzel Decorative', cursive;
+    padding: 50px;
+}
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+.parallax-inner {
+
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.menu {
+    position: fixed;
+    background: #CBAACB;
+    width: 100%;
+    height: 5%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+}
+
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px
+}
+.links:hover {
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+}
+
+#goals {
+    font-family: 'Cinzel Decorative', cursive;
+    padding: 50px;
+}
+
+
+#contact iframe{
+    width: 100%;
+}
+
+.contact_1 h3
+{
+    display: inline;
+}
